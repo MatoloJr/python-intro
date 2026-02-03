@@ -1,9 +1,9 @@
 #if statements are used to make decisions
 
-temp = 5
+temp = 35
 
 if temp > 30 :
-    print("it's a hot day")
+    print("it's a hot day")#the double quotes are used because there is a single quote which acts as the aprostrophy
     print("Have a cold drink")
 elif temp > 20 :
     print("It's a nice day")

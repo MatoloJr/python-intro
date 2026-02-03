@@ -1,4 +1,5 @@
 #used for iterating over a list and access each item individually
+#a for loop also can output each element on it's own line
 
 nums = [1,2,3,4,5,6,7,8,9,0]
 

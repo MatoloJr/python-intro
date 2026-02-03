@@ -10,3 +10,5 @@ names[0] = 'sammy' #to change an object
 #to output a range of objects use > print(names[0:3]) NB//this will not output the element in the last specified index number
 
 print(names [0:4])
+print(names[-5])#negative index output
+print(names)
